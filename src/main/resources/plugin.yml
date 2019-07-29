@@ -1,0 +1,8 @@
+name: ExamplePlugin
+version: 1.0
+main: com.develephant.exampleplugin.ExamplePlugin
+api-version: 1.14
+commands:
+  example:
+    description: Does an command action.
+    usage: /example
